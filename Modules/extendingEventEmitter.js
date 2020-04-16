@@ -1,5 +1,4 @@
 const EventEmmiter = require('events') //Event Module
-
 const EventCall = require('./eventLogger')
 const eventObj = new EventCall()
 
