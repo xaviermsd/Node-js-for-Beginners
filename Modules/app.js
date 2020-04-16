@@ -1,7 +1,3 @@
-// function helloWorld(name) {
-//     console.log(`Hello ${name} -Welcome to Node.js Tutorial`);
-// }
-
-// helloWorld('Harsh');
-
-console.log(module);
+const logsNotes = require('./logger.js')
+console.log(logsNotes)
+logsNotes()
